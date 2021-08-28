@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: brown;
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
+.list li{
+    list-style: none;
+}
